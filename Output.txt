@@ -1,0 +1,20 @@
+First 5 rows of dataset:
+       Month  PowerConsumption
+0 2021-01-31              1008
+1 2021-02-28              1029
+2 2021-03-31              1014
+3 2021-04-30              1008
+4 2021-05-31              1044
+
+Missing values:
+Month               0
+PowerConsumption    0
+dtype: int64
+
+==============================
+RESULT
+==============================
+Predicted Power Consumption for Next Month:
+1481.89 Units
+
+Task Completed Successfully!
